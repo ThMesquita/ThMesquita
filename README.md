@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Thiago Mesquita, a passionate developer who lo
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 🤔 I’m looking for help with improving my skills in machine learning and artificial intelligence.
 - 💬 Ask me about anything related to web development, cloud computing, and open-source contributions.
-- 📫 How to reach me: [thmesquita@example.com](mailto:thmesquita@example.com)
+- 📫 How to reach me: [contatothiagomesquita@gmail.com](mailto:contatothiagomesquita@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature when I'm not coding.
 
 ## My Skills
@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm Thiago Mesquita, a passionate developer who lo
 - Python
 - Java
 - C#
-- TypeScript
 
 ### Frameworks and Libraries
 - React
@@ -30,7 +29,6 @@ Welcome to my GitHub profile! I'm Thiago Mesquita, a passionate developer who lo
 
 ### Tools and Technologies
 - Docker
-- Kubernetes
 - AWS
 - Azure
 - Git
