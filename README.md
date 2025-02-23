@@ -1,27 +1,56 @@
-# 👋 Hello, I'm Thiago Henrique Mesquita de Sousa!
+# Hi there, I'm Thiago Mesquita! 👋
 
-🎓 **Computer Science Undergraduate** | 💻 **Software Developer**  
-🚀 Passionate about technology, systems, and automation. Always seeking to improve my programming skills and solve problems through innovation.
+Welcome to my GitHub profile! I'm Thiago Mesquita, a passionate developer who loves to explore new technologies and contribute to open-source projects. Here's a little bit about me:
 
-### 🌟 About Me:
-- 🔭 Currently working on Full Stack projects  
-- 🌱 Learning more about backend development and system optimization  
-- 💼 Looking for opportunities in software development  
-- ⚡ Fun Fact: I love learning new technologies and always enjoy tackling challenging projects!
+## About Me
 
-### 📫 Contact:
-- Email: [contatothiagomesquita@gmail.com](mailto:contatothiagomesquita@gmail.com)  
-- LinkedIn: [Thiago Henrique Mesquita de Sousa](https://www.linkedin.com/in/thiago-henrique-mesquita/)  
-- Website/Portfolio: [https://thmesquita.github.io/](https://thmesquita.github.io/)  
+- 🔭 I’m currently working on various open-source projects.
+- 🌱 I’m currently learning advanced topics in software development and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and innovative ideas.
+- 🤔 I’m looking for help with improving my skills in machine learning and artificial intelligence.
+- 💬 Ask me about anything related to web development, cloud computing, and open-source contributions.
+- 📫 How to reach me: [thmesquita@example.com](mailto:thmesquita@example.com)
+- ⚡ Fun fact: I love hiking and exploring nature when I'm not coding.
 
-### 💻 Technologies:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)  
-![Databases](https://img.shields.io/badge/Databases-003B57?style=flat&logo=database&logoColor=white)  
+## My Skills
 
-### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-mesquita/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ThMesquita)
+### Programming Languages
+- JavaScript
+- Python
+- Java
+- C#
+- TypeScript
+
+### Frameworks and Libraries
+- React
+- Node.js
+- Express
+- Django
+- Spring Boot
+
+### Tools and Technologies
+- Docker
+- Kubernetes
+- AWS
+- Azure
+- Git
+
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+
+## GitHub Stats
+
+![Thiago Mesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThMesquita&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThMesquita&layout=compact&theme=radical)
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/thmesquita/)
+- [Personal Blog](https://thmesquita.github.io/)
+
+Thanks for visiting my profile, and feel free to reach out if you'd like to collaborate on a project or just want to chat about technology!
